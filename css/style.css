@@ -52,3 +52,43 @@ a {
   height: 100vh;
   background-color: #222020;
 }
+
+.header {
+  color: white;
+  font-family: ‘Graphik LCG’, sans-serif;
+  margin-bottom: 30px;
+}
+
+.link {
+  padding: 20px;
+  color: white;
+  border: solid;
+  border-width: 3px;
+  display: inline-block;
+}
+
+.download_link {
+  background-color: #2f1ce4;
+  border-color: #2f1ce4;
+}
+
+.more_link {
+  background-color: transparent;
+  border-color: white;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.link_back {
+  padding-left: 25px;
+  background-image: url("/img/return.png");
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+
